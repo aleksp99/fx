@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0ec658c-b75c-4861-bff2-9f9f52d6fa5c">
+  <name>fx</name>
+  <synonym>
+    <key>ru</key>
+    <value>fx</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonModule.fx_ОбщегоНазначения</content>
+  <content>Catalog.УчебныеМатериалы</content>
+</mdclass:Subsystem>
